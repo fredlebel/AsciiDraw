@@ -1,9 +1,12 @@
-Build #7
-Built: July 15th 2008
+Build #8
+Built: April 2011
 Contact: frederic.lebel@gmail.com
 F1 for command list.
 
 What's new:
+Build #8
+- Added scripting through Lua.
+
 Build #7
 - Added F9 to generate HTML that renders the screen.  The HTML is placed in the clipboard.
 - Added CTRL-R to replace all instances of a character with the current one.
